@@ -1,0 +1,13 @@
+
+# Free and Open-Source Python dependencies for Forensica-AI
+transformers
+fastapi
+uvicorn
+opencv-python
+librosa
+torch
+Pillow
+scikit-learn
+numpy
+joblib
+requests
